@@ -1,0 +1,36 @@
+programa {
+  funcao inicio() {
+  inteiro idades[4] = {18, 20, 22, 19}
+
+ 
+para (inteiro i = 0; i < 4; i++) {
+  escreva(idades[i], "\n")
+}
+cadeia lista_convidados [5]
+ escreva("Digite o nome do convidado nº ", i, ": ")
+  leia(lista_convidados[i]) {
+
+  }
+  programa {
+  funcao inicio() {
+  inteiro idades[4] = {18, 20, 22, 19}
+
+ 
+para (inteiro i = 0; i < 4; i++) {
+  escreva(idades[i], "\n")
+}
+cadeia lista_convidados [5]
+ escreva("Digite o nome do convidado nº ", i, ": ")
+  leia(lista_convidados[i]) {
+
+  }
+  
+
+
+  }
+}
+
+
+
+  }
+}
